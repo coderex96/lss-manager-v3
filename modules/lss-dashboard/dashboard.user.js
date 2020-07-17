@@ -269,7 +269,7 @@ I18n.translations.es_ES['lssm']['dashboard'] = {
     nofz: "No vehicles found",
 }
 I18n.translations.it_IT['lssm']['dashboard'] = {
-    name: "Cruscotto",
+    name: "Dashboard",
     vehicles: {
         name: "Veicoli",
         type: "Tipo di veicolo",
@@ -283,7 +283,7 @@ I18n.translations.it_IT['lssm']['dashboard'] = {
     overview: "Panoramica",
     distribution: "Distribuzione",
     station_plan: "Postazioni",
-    loading: "Il cruscotto si sta caricando",
+    loading: "La dashboard si sta caricando",
     ge: 'Edifici',
     school: 'Scuole',
     wachen: 'Postazioni',
@@ -293,7 +293,7 @@ I18n.translations.it_IT['lssm']['dashboard'] = {
     carswp: 'VEICOLI',
     patiwp: 'PAZIENTI',
     levwp: 'LIVELLO',
-    categories: ['Pompieri', 'Ambulanze', 'Polizia', 'Ospedali'],
+    categories: ['Vigili del fuoco', 'Ambulanze', 'Polizia', 'Ospedali'],
     categories_data: ['fw', 'rd', 'pol', 'kh'],
     categories_data_school: ['fw_school', 'rd_school', 'pol_school', 'kh_clinic'],
     nofz: "Nessun veicolo trovato",
